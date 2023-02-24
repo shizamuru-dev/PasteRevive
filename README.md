@@ -49,6 +49,7 @@ python3 main.py
 ```
 
 You will see this menu:
+
 ![](https://sun9-13.userapi.com/impg/bhowSPDKvyxiG9aS6ed2gasu1eetdtFq8t6k4w/ndjvXrbWu2M.jpg?size=634x393&quality=96&sign=16990adb2469806e902c7de65a460075&type=album)
 
 In it, you need to select the system for which you need to create a backdoor. I will choose 1, which is for Windows
@@ -60,11 +61,13 @@ Now we have to choose the payload:
 I will choose 4.
 
 Next, you need to specify your ip (from must be static) and port:
+
 ![](https://i.imgur.com/K8uT2gh.png)
 
 Fine, it remains only to enter the words or phrases you need. I chose GOTHERE and COPYME :)
 
 Write "y" to automatically launch metasploit
+
 ![](https://i.imgur.com/6XShoOZ.png)
 
 After launching, you will see a message with your IP address to check the backdoor yourself.
@@ -100,6 +103,6 @@ Don't copy strange text to the Windows Console :)
 
 Please buy me a beer ^_^
 
-<a href="https://www.buymeacoffee.com/roniemartinez" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://www.buymeacoffee.com/shizamuru" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Beer" height="41" width="174"></a>
 
 
