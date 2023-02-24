@@ -1,7 +1,7 @@
 
 # PasteRevive
 
-A fork of the PasteZorn backdoor aimed at python 3.
+A fork of the PasteZort backdoor aimed at python 3.
 
 
  
