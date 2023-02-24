@@ -37,6 +37,7 @@ And finally clean the folder from garbage:
 
 ```bash
 sudo rm -f README.md
+sudo rm -f LICENSE
 ```
     
 
